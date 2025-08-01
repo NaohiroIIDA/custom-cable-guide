@@ -32,6 +32,7 @@ LCSC のカスタムケーブルサービスでは、簡単な配線図（PDFや
 <img src="images/cable_draw1.png" width="640px">
 <img src="images/cable_draw2.png" width="640px">
 <img src="images/cable_draw3.png" width="640px">
+<img src="images/cable_draw4.png" width="640px">
 ---
 
 ### 2. LCSCにアップロードして見積依頼
@@ -50,7 +51,7 @@ LCSC のカスタムケーブルサービスでは、簡単な配線図（PDFや
 
 - 約1営業日後、「注文管理」画面に見積もりが表示されます
 - 問題なければPayPalなどで支払いを行います
-  <img src="images/order_pic4.png" width="640px">
+-<img src="images/order_pic4.png" width="640px">
 
 ---
 
