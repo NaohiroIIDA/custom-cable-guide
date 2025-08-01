@@ -40,7 +40,7 @@ LCSC のカスタムケーブルサービスでは、簡単な配線図（PDFや
 1. LCSCのアカウントを取得後、[https://lcsc.com/customcables](https://lcsc.com/customcables)にアクセス
 2. 「get a Quote」をクリック
 <img src="images/order_pic1.png" width="640px">
-3. 画面を下の方までスクロールし、とても目立たない「provide your drawings or remark」をクリックして製作した図面をアップロード
+3. 画面を下の方までスクロールし、**とても目立たない**「provide your drawings or remark」をクリックして製作した図面をアップロード
 <img src="images/order_pic2.png" width="640px">
 <img src="images/order_pic3.png" width="640px">
 5. 数量などを入力し、「Confirm your cable plan」をクリック
@@ -95,7 +95,7 @@ LCSC のカスタムケーブルサービスでは、簡単な配線図（PDFや
 ## 図面・資料（サンプル）
 
 - [Cable_order20.drawio (4).pdf](images/Cable_order20.drawio%20(4).pdf)
-- [XL2506130075-1(D) (2).pdf](images/XL2506130075-1(D) (2).pdf)
+- [XL2506130075-1(D) (2).pdf](images/XL2506130075-1(D)%20(2).pdf)
 
 ---
 
