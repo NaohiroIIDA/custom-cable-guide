@@ -94,7 +94,7 @@ LCSC のカスタムケーブルサービスでは、簡単な配線図（PDFや
 
 ## 図面・資料（サンプル）
 
-- [Cable_order20.drawio (4).pdf](images/Cable_order20.drawio (4).pdf)
+- [Cable_order20.drawio (4).pdf](images/Cable_order20.drawio%20(4).pdf)
 - [XL2506130075-1(D) (2).pdf](images/XL2506130075-1(D) (2).pdf)
 
 ---
