@@ -37,7 +37,7 @@ LCSC のカスタムケーブルサービスでは、簡単な配線図（PDFや
 
 ### 2. LCSCにアップロードして見積依頼
 
-1. LCSCのアカウントを取得後、https://lcsc.com/ にアクセス　→　アカウントアイコンから 「Cable Order」　をクリック
+1. LCSCのアカウントを取得後、[https://lcsc.com/](https://lcsc.com/customcables) にアクセス
 2. 「get a Quote」をクリック
 <img src="images/order_pic1.png" width="640px">
 3. 画面を下の方までスクロールし、とても目立たない「provide your drawings or remark」をクリックして製作した図面をアップロード
@@ -51,7 +51,8 @@ LCSC のカスタムケーブルサービスでは、簡単な配線図（PDFや
 
 - 約1営業日後、「注文管理」画面に見積もりが表示されます
 - 問題なければPayPalなどで支払いを行います
--<img src="images/order_pic4.png" width="640px">
+
+<img src="images/order_pic4.png" width="640px">
 
 ---
 
@@ -76,7 +77,8 @@ LCSC のカスタムケーブルサービスでは、簡単な配線図（PDFや
 - Confirm後、5〜10営業日で製造が完了し、出荷されます
 - 数日後、日本国内に到着します
 
-  <img src="images/order_pic4.png" width="640px">
+  <img src="images/s-IMG_8776.jpg" width="640px">
+  <img src="images/s-IMG_9331.jpg" width="640px">
 
 ---
 
@@ -92,8 +94,8 @@ LCSC のカスタムケーブルサービスでは、簡単な配線図（PDFや
 
 ## 図面・資料（サンプル）
 
-- [example-cable-diagram.png](./example-cable-diagram.png)
-- [lcsc-confirmed.pdf](./lcsc-confirmed.pdf)
+- [Cable_order20.drawio (4).pdf](/images/Cable_order20.drawio (4).pdf)
+- [XL2506130075-1(D) (2).pdf](/images/XL2506130075-1(D) (2).pdf)
 
 ---
 
