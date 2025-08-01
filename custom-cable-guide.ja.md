@@ -28,18 +28,20 @@ LCSC のカスタムケーブルサービスでは、簡単な配線図（PDFや
 - 3: ピン接続図（例：GND, VCC）
 - 4: 発注する本数（例：10本）不要かも
 - 5: 収縮チューブ・被覆・スリーブ等の特記事項（任意）
-!["ケーブル図面"]()
-<img src="images/cable_draw1.png" width="320px">
+
+<img src="images/cable_draw1.png" width="640px">
+<img src="images/cable_draw2.png" width="640px">
+<img src="images/cable_draw3.png" width="640px">
 ---
 
 ### 2. LCSCにアップロードして見積依頼
 
 1. LCSCのアカウントを取得後、https://lcsc.com/ にアクセス　→　アカウントアイコンから 「Cable Order」　をクリック
-画像2
 2. 「get a Quote」をクリック
-画像３
-4. 画面を下の方までスクロールし、とても目立たない「provide your drawings or remark」をクリックして製作した図面をアップロード
-画像４
+<img src="images/order_pic1.png" width="640px">
+3. 画面を下の方までスクロールし、とても目立たない「provide your drawings or remark」をクリックして製作した図面をアップロード
+<img src="images/order_pic2.png" width="640px">
+<img src="images/order_pic3.png" width="640px">
 5. 数量などを入力し、「Confirm your cable plan」をクリック
 
 ---
@@ -48,6 +50,7 @@ LCSC のカスタムケーブルサービスでは、簡単な配線図（PDFや
 
 - 約1営業日後、「注文管理」画面に見積もりが表示されます
 - 問題なければPayPalなどで支払いを行います
+  <img src="images/order_pic4.png" width="640px">
 
 ---
 
@@ -58,7 +61,9 @@ LCSC のカスタムケーブルサービスでは、簡単な配線図（PDFや
   - コネクタの型番
   - ピン配列
   - ケーブルの長さ、色、スリーブ指定など
-  画像６
+    
+  <img src="images/lcsc1.png" width="640px">
+  <img src="images/lcsc2.png" width="640px">
 
 - 問題がある場合はrejectして修正点を記入し、再度図面が更新されるまで待ちます。
 　問題が無ければ「Confirm」をクリックすると、ケーブル製造が開始されます。
@@ -69,7 +74,8 @@ LCSC のカスタムケーブルサービスでは、簡単な配線図（PDFや
 
 - Confirm後、5〜10営業日で製造が完了し、出荷されます
 - 数日後、日本国内に到着します
-画像７
+
+  <img src="images/order_pic4.png" width="640px">
 
 ---
 
